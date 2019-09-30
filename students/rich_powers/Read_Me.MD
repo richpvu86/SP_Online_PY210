@@ -10,6 +10,6 @@
 # work with Java and Object Oriented Programming a while back as well. While
 # I have exposure to more modern programming languages, there are some 
 # unique properties to Python that I an looking to understand more in depth 
-# and I look forward to engage in the class. 
+# and I look forward to engaging in the class. 
 #
 
